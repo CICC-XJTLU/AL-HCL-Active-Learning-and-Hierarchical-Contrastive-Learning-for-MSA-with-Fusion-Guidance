@@ -1,4 +1,4 @@
-# AL-ARCF
+# AL-HCL
 
 Pytorch implementation for codes in "AL-HCL: Active Learning and Hierarchical Contrastive Learning for Multimodal Sentiment Analysis with Fusion Guidance"(https://ieeexplore.ieee.org/document/11180049)
 
@@ -36,4 +36,5 @@ Please cite our paper if you find our work useful for your research:
 
 
 ```
+
 
